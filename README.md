@@ -8,7 +8,7 @@
 
 
 # Demo
-![alt tag](https://github.com/Gypsyan/KGLineLoading/master/output_I11Pum.gif)
+![alt tag](https://github.com/Gypsyan/KGLineLoading/blob/master/output_I11Pum.gif)
 
 # Installation
 
