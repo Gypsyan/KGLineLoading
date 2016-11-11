@@ -7,9 +7,6 @@
 `KGLineLoading` is a Custom loading animation.
 
 
-# Demo
-![alt tag](https://github.com/Gypsyan/KGLineLoading/blob/master/output_I11Pum.gif)
-
 # Installation
 
 ## Cocoapods
