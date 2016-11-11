@@ -7,9 +7,6 @@
 `KGLineLoading` is a Custom loading animation.
 
 
-# Demo
-![alt tag](https://github.com/Gypsyan/KGLineLoading/master/output_I11Pum.gif)
-
 # Installation
 
 ## Cocoapods
@@ -72,7 +69,7 @@ Come to the `attribute inspector` and add the feature,
   To stop animation,
 
   ```
-  loadingview.startAnimation()
+  loadingview.stopAnimation()
   ```
 
 ## Add it programmatically
