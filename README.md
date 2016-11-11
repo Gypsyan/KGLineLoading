@@ -69,7 +69,7 @@ Come to the `attribute inspector` and add the feature,
   To stop animation,
 
   ```
-  loadingview.startAnimation()
+  loadingview.stopAnimation()
   ```
 
 ## Add it programmatically
